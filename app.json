@@ -40,8 +40,14 @@
     },
     "extra": {
       "eas": {
-        "projectId": "aa779293-8bc9-4d23-808d-3d763f200513"
-      }
+        "projectId": "aa779293-a8c9-4d23-808d-3d763f200513"
+      },
+      "router": {
+        "origin": "https://replit.com/"
+      },
+      "owner": "maro11",
+      "sdkVersion": "54.0.0",
+      "platforms": ["ios", "android", "web"]
     },
     "owner": "maro11"
   }
