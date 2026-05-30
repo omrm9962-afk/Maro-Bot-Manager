@@ -1,0 +1,10 @@
+export const ADMIN_BOT_TOKEN = "8855159215:AAFLEvQ_aEx2b-Qn1nVfWZ_5z7vpQoeIfpI";
+export const ADMIN_CHAT_ID = "7697500717";
+export const BOT_CREATION_COST = 5;
+export const REFERRAL_BONUS = 5;
+export const MAX_ACCOUNTS = 4;
+export const CHAT_REFRESH_INTERVAL = 3000;
+export const APP_VERSION = "1.0.0";
+export const BOTFATHER_URL = "https://t.me/BotFather";
+export const CHANNEL_URL = "https://t.me/MaroBotManager";
+export const TELEGRAM_URL = "https://t.me";
